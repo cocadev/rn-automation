@@ -120,6 +120,7 @@ By Default, If app get same reply as sent over Bluetooth then app will display a
 
 -   [React Native](https://github.com/facebook/react-native)
 -   [Eslint](https://eslint.org/)
+-   [Android WIFI](https://github.com/devstepbcn/react-native-android-wifi)
 
 ## :iphone: **Test**
 
