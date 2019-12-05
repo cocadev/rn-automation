@@ -86,11 +86,10 @@ By Default, If app get same reply as sent over Bluetooth then app will display a
 
 ## :dizzy: **Roadmap**
 
--   [x] Make it work on IOS
+-   [ ] Make it work on IOS
 -   [x] Make it work on Android
--   [x] Make it work on Expo
 -   [x] Transform into responsive
--   [x] Update to latest React Native version
+-   [ ] Update to latest React Native version
 
 ## :wrench: **Install instructions**
 
@@ -120,26 +119,7 @@ By Default, If app get same reply as sent over Bluetooth then app will display a
 </h1>
 
 -   [React Native](https://github.com/facebook/react-native)
--   [Expo](https://github.com/expo/expo)
--   [Redux](https://github.com/reduxjs/react-redux)
--   [Redux-Persist](https://github.com/rt2zz/redux-persist)
--   [Lottie React Native](https://github.com/react-native-community/lottie-react-native)
--   [Antd Mobile RN](https://github.com/ant-design/ant-design-mobile-rn)
--   [React Native Firebase](https://github.com/invertase/react-native-firebase)
--   [Gifted Chat](https://github.com/FaridSafi/react-native-gifted-chat)
 -   [Eslint](https://eslint.org/)
--   [Facebook Login](https://github.com/facebook/react-native-fbsdk)
-
--   [MongoDB](https://www.mongodb.com/)
--   [Formik + Yup](https://jaredpalmer.com/formik/)
--   [Apollo](https://apollographql.com)
--   [GraphQL](https://github.com/facebook/graphql)
--   [Kraken](https://github.com/wendelfreitas/kraken)
--   [OneSignal](https://onesignal.com)
--   [AWS](https://aws.amazon.com/pt/)
--   [Styled Components](https://www.styled-components.com/)
--   [Reactotron](https://infinite.red/reactotron)
--   [Bug Snag](https://github.com/bugsnag/bugsnag-react-native)
 
 ## :iphone: **Test**
 
