@@ -89,6 +89,7 @@ By Default, If app get same reply as sent over Bluetooth then app will display a
 -   [ ] Make it work on IOS
 -   [x] Make it work on Android
 -   [x] Transform into responsive
+-   [x] WIFI SWITCH
 -   [ ] Update to latest React Native version
 
 ## :wrench: **Install instructions**
@@ -125,8 +126,8 @@ By Default, If app get same reply as sent over Bluetooth then app will display a
 ## :iphone: **Test**
 
 - [x] Test on Android
-- [x] Test on iOS
+- [ ] Test on iOS
 
 ## :eyes: **Version**
-- [ ] React-Native 
-- [x] Expo 35
+- [ ] React-Native 0.57.1
+- [ ] Expo 
