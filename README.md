@@ -1,14 +1,5 @@
 <h1 align="center"><b> Home Automation App</b> </h1>
 
-<h1 align="center">
-  <br>
-  <kbd>
-    <img src="https://image.prntscr.com/image/YrkdAm5xSxe0MmkqrvGeJA.png" alt="Animavita" height="525" width="725">
-  </kbd>
-  <br>
-  <br><br>
-</h1>
-
 <p align="center">Bluetooth Automation is used to remotely control devices with serial HC-05 or HC-06 Bluetooth Module.</p>
 
 <p align="center"><i>"How to save a life?" - The Home Automation</i> </p>
