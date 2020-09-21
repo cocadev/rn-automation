@@ -1,4 +1,4 @@
-<h1 align="center"><b> Home Automation App</b> </h1>
+<h1 align="center"><b> Home Automation React-Native App</b> </h1>
 
 <p align="center">Bluetooth Automation is used to remotely control devices with serial HC-05 or HC-06 Bluetooth Module.</p>
 
